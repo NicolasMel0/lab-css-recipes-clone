@@ -1,0 +1,57 @@
+body {
+  color: gray;
+  margin: 0;
+  font-size: 150%;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 400%;
+  background-image: url(https://raw.githubusercontent.com/ironhack-labs/lab-css-recipes-clone/master/apple-pie/images/apple-pie.jpg);
+  background-size: cover;
+  color: white;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+header a {
+  margin-top: 2.5em;
+  color: gray;
+}
+
+.bloco {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+h2 {
+  color: black;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+Ingredientes img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
